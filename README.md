@@ -5,6 +5,9 @@ A list of equipment and links will be added shortly.
 
 ***********************Please download IRISBABY.docx to see full details of connections and equipment with pics. TIR3BUCK2A.ino is the arduino script.*************************************************************************
 
+Please make sure to Follow the research in this area by Mike Ossmann @michaelossmann and Dominic Spill @dominicgs There doing great things.
+
+
 The Team that helped me are Tim Kuester @bjt2n3904 and Craig Hefner @devttys0 
 To the left is the IRIS board it is one tool that can be used to look at and evaluate signals with unknown protocols.
 It is powered by a coin cell battery for over 5 days. 
